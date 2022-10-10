@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Austin Francis](mailto:austin.francis@owasp.org)
+* [Aswin Uma Sukumar](mailto:aswin.sukumar@owasp.org)
