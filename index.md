@@ -23,6 +23,37 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
+
+We schedule our meetings on the [OWASP Nagercoil Meetup Group]<!--(https://www.meetup.com/Nagercoil-OWASP-Meetup-Group/) -->
+
+Follow us on Twitter to know about more upcoming events and instant updates
+
+{% include chapter_events.html group=page.meetup-group %}
+
+Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
+
+## Speakers
+Would you like to speak on the upcoming OWASP Nagercoil Webinar? [Contact Us](mailto:austin.francis@owasp.org)
+
+**Email Format :**
+
+- Speaker name
+- Job Role
+- Company / Organization
+- Country
+- Email ID
+- Contact Number
+- Speaker Profile
+- Presentation Details
+    - Name / Title of the Presentation
+    - Abstract of the presentation
+    - Presentation time required
+
+## Local News
+- Meeting Location
+- Everyone is welcome to join us at our chapter meetings.
+
+
 <!-- You should delete this comment
 
 Standard Chapter Page Template
