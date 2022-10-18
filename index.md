@@ -3,9 +3,10 @@
 layout: col-sidebar
 title: OWASP Nagercoi
 tags: Nagercoil OWASP Chapter India
-level: 2
+level: 0
 region: Asia
 meetup-group: Nagercoil-OWASP-Meetup-Group
+country: India
 
 ---
 <img src="assets/images/OWASP.png"/>
