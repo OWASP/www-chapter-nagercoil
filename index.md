@@ -15,7 +15,7 @@ meetup-group: Nagercoil-OWASP-Meetup-Group
 In October 2022, OWASP Nagercoil was established. Our Nagercoil Chapter has various Meetups and Webinars scheduled for the upcoming days. All of these gatherings are open to the public, and anyone is welcome to attend and offer their expertise in the field of security. The security community and our chapter work together to develop secure application development projects and network strategies.
 
 ## Participation
-Keep watching this space for announcements about upcoming events. Everyone is welcome to join us at our chapter meetings. For more detailed information about the OWASP Mugla University Student Chapter, contact the chapter leaders: 
+Keep watching this space for announcements about upcoming events. Everyone is welcome to join us at our chapter meetings. For more detailed information about the OWASP Nagercoil Chapter, contact the chapter leaders: 
 * [Austin](mailto:austin.francis@owasp.org)
 
 Next Meeting/Event 
