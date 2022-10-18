@@ -2,6 +2,8 @@
 * Provide Group Information
 
 ### Social Links
-* [Meetup](#)
+* [Meetup]
 
+### Core Team
+* [Austin](mailto:austin.francis@owasp.org)
 
