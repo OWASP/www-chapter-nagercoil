@@ -21,16 +21,16 @@ Chapters are led by local leaders in accordance with the [Chapters Policy](/www-
 
 Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
 
-Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
+Next Meeting/Event 
 ---------------------
-<!-- {% include chapter_events.html group=page.meetup-group %} -->
 
 
-We schedule our meetings on the [OWASP Nagercoil Meetup Group]<!--(https://www.meetup.com/Nagercoil-OWASP-Meetup-Group/) -->
+
+We schedule our meetings on the [OWASP Nagercoil Meetup Group]
 
 Follow us on Twitter to know about more upcoming events and instant updates
 
-<!--{% include chapter_events.html group=page.meetup-group %}-->
+
 
 Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
