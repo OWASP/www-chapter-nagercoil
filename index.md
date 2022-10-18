@@ -10,6 +10,8 @@ meetup-group: Nagercoil-OWASP-Meetup-Group
 
 ## Welcome
 
+<img src="assets/images/OWASP.png"/>
+
 In October 2022, OWASP Nagercoil was established. Our Nagercoil Chapter has various Meetups and Webinars scheduled for the upcoming days. All of these gatherings are open to the public, and anyone is welcome to attend and offer their expertise in the field of security. The security community and our chapter work together to develop secure application development projects and network strategies.
 
 ## Participation
