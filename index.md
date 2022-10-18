@@ -1,12 +1,3 @@
----
-
-layout: col-sidebar
-title: OWASP Nagercoil
-tags: Nagercoil OWASP Chapter India
-region: Asia
-meetup-group: Nagercoil-OWASP-Meetup-Group
-
----
 
 ## Welcome
 
