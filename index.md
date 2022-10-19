@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Nagercoi
+title: OWASP Nagercoil
 tags: Nagercoil OWASP Chapter India
 level: 0
 region: Asia
