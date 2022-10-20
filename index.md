@@ -5,7 +5,7 @@ title: OWASP Nagercoil
 tags: Nagercoil OWASP Chapter India
 level: 0
 region: Asia
-meetup-group: Nagercoil-OWASP-Meetup-Group
+meetup-group: 
 country: India
 
 ---
@@ -23,7 +23,7 @@ Keep watching this space for announcements about upcoming events. Everyone is we
 Next Meeting/Event 
 ---------------------
 
-We schedule our meetings on the [OWASP Nagercoil Meetup Group] [Meetup Group](https://www.meetup.com/nagercoil-owasp-meetup-group)
+We schedule our meetings on the [OWASP Nagercoil Meetup Group] [Meetup Group]()
 
 {% include chapter_events.html group=page.meetup-group %}
 
