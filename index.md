@@ -17,8 +17,8 @@ In October 2022, OWASP Nagercoil was established. Our Nagercoil Chapter has vari
 
 ## Participation
 Keep watching this space for announcements about upcoming events. Everyone is welcome to join us at our chapter meetings. For more detailed information about the OWASP Nagercoil Chapter, contact the chapter leaders: 
-* [Austin](mailto:austin.francis@owasp.org)
-* [Aswin](mailto:)
+* [Austin Francis](mailto:austin.francis@owasp.org)
+* [Aswin Sukumar](mailto:)
 
 Next Meeting/Event 
 ---------------------
