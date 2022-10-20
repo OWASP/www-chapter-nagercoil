@@ -9,7 +9,7 @@ meetup-group: Nagercoil-OWASP-Meetup-Group
 country: India
 
 ---
-<img src="assets/images/OWASP.png"/>
+<img src="assets/images/OWASPlogo.png"/>
 
 ## Welcome
 
