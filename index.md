@@ -23,7 +23,7 @@ Keep watching this space for announcements about upcoming events. Everyone is we
 Next Meeting/Event 
 ---------------------
 
-We schedule our meetings on the [OWASP Nagercoil Meetup Group] [Meetup Group](https://www.meetup.com/owasp-nagercoil-chapter/)
+We schedule our meetings on the [OWASP Nagercoil Meetup Group](https://www.meetup.com/owasp-nagercoil-chapter/)
 
 {% include chapter_events.html group=page.meetup-group %}
 
